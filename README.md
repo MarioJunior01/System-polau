@@ -5,5 +5,5 @@ O Polau é um Sistema de Gestão Ambiental (SGA) desenvolvido para auxiliar no m
 Com funcionalidades como acompanhamento de indicadores, geração de relatórios e gestão de conformidades, o Polau simplifica a implementação de políticas ambientais e otimiza processos para reduzir impactos ao meio ambiente.
 
 <a href= "https://github.com/MarioJunior01/Sytem-polau/edit/main/README.md">
-    <img src="logo-polau" alt="Urso polar " style="width:400px;">
+    <img src="logo-polau.jpeg" alt="Urso polar " style="width:400px;">
 </a>
